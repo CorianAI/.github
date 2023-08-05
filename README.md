@@ -1,5 +1,5 @@
-# .github
-CorianAI
+# CorianAI
+
 Welcome to CorianAI, where we believe in the power of small, lightweight, and local AI solutions. Our mission is to develop AI algorithms and tools that not only enhance your gaming experience but also assist you in your everyday endeavors.
 
 Our Vision
