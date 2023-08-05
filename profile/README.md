@@ -6,7 +6,7 @@ Welcome to CorianAI, where we believe in the power of small, lightweight, and lo
 We envision a world where AI is accessible, efficient, and fun. Our solutions are designed to run on consumer-grade hardware, ensuring that you can enjoy the benefits of AI without compromising your system's performance.
 
 ## Our Products
-###MUTAS
+### MUTAS
 MUTAS is our innovative MUD-like text engine. We're currently developing generative AI language models that integrate with MUTAS, allowing you to hack and enter the worlds we create. Stay tuned for more updates!
 
 ### Lightweight Self-Driving Cars
